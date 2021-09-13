@@ -1,0 +1,6 @@
+[submodule "vendor/nutsnbolts"]
+	path = vendor/nutsnbolts
+	url = https://github.com/JohK/nutsnbolts.git
+[submodule "vendor/smooth-prim"]
+	path = vendor/smooth-prim
+	url = https://github.com/rcolyer/smooth-prim.git
